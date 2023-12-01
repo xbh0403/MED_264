@@ -1,0 +1,70 @@
+Model 0:
+  Train Accuracy: 0.73
+  Train AUROC: 0.37
+  Validation Accuracy: 0.70
+  Validation AUROC: 0.40
+  Test Accuracy: 0.70
+  Test AUROC: 0.41
+Model 1:
+  Train Accuracy: 0.76
+  Train AUROC: 0.68
+  Validation Accuracy: 0.69
+  Validation AUROC: 0.60
+  Test Accuracy: 0.70
+  Test AUROC: 0.62
+Model 2:
+  Train Accuracy: 0.87
+  Train AUROC: 0.42
+  Validation Accuracy: 0.72
+  Validation AUROC: 0.43
+  Test Accuracy: 0.72
+  Test AUROC: 0.45
+Model 3:
+  Train Accuracy: 0.91
+  Train AUROC: 0.52
+  Validation Accuracy: 0.73
+  Validation AUROC: 0.48
+  Test Accuracy: 0.72
+  Test AUROC: 0.49
+Model 4:
+  Train Accuracy: 0.94
+  Train AUROC: 0.38
+  Validation Accuracy: 0.71
+  Validation AUROC: 0.42
+  Test Accuracy: 0.71
+  Test AUROC: 0.43
+Model 5:
+  Train Accuracy: 0.97
+  Train AUROC: 0.36
+  Validation Accuracy: 0.71
+  Validation AUROC: 0.41
+  Test Accuracy: 0.71
+  Test AUROC: 0.42
+Model 6:
+  Train Accuracy: 0.98
+  Train AUROC: 0.41
+  Validation Accuracy: 0.71
+  Validation AUROC: 0.44
+  Test Accuracy: 0.71
+  Test AUROC: 0.45
+Model 7:
+  Train Accuracy: 0.99
+  Train AUROC: 0.34
+  Validation Accuracy: 0.72
+  Validation AUROC: 0.41
+  Test Accuracy: 0.71
+  Test AUROC: 0.42
+Model 8:
+  Train Accuracy: 0.99
+  Train AUROC: 0.32
+  Validation Accuracy: 0.71
+  Validation AUROC: 0.40
+  Test Accuracy: 0.70
+  Test AUROC: 0.41
+Model 9:
+  Train Accuracy: 0.99
+  Train AUROC: 0.32
+  Validation Accuracy: 0.72
+  Validation AUROC: 0.40
+  Test Accuracy: 0.71
+  Test AUROC: 0.42
